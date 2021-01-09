@@ -1,6 +1,8 @@
 const express = require("express");
 const mongoose = require("mongoose");
 const logger = require("morgan");
+const apiRoute = require("./routes/apiRoute.js");
+const htmlRoute = require("./routes/htmlRoute.js");
 
 const app = express();
 // Setting port server//
