@@ -22,7 +22,10 @@ mongoose.connect(
   );
 //   Link to the routes//
 app.use(htmlRoutes);
-app.use(apiRoutes);
+// app.use(apiRoutes);
+// Parsed in app as a required parameter to the function //
+apiRoutes(app)
 app.listen(PORT, () => {
-    console.log("App running on port!"+PORT);
+    // console.log("App running on port!"+PORT);
+    console.log(`App running on port ${PORT}`)
 });
