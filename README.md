@@ -23,8 +23,8 @@ The user should be able to:
 ![lastworkout](/images/lastworkout.png)
 
 ## LINKS
-![Github](https://github.com/Valkimani/Tap_Out_Exercise_Tracker)
-![Deployed site](https://tap-out.herokuapp.com/?id=600770387e7dc80017c4d722)
+[Github](https://github.com/Valkimani/Tap_Out_Exercise_Tracker)
+[Deployed site](https://tap-out.herokuapp.com/?id=600770387e7dc80017c4d722)
 
 
 ## License
