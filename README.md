@@ -16,27 +16,15 @@ The user should be able to:
   * View the combined weight of multiple exercises from the past seven workouts on the `stats` page.
 
   * View the total duration of each workout from the past seven workouts on the `stats` page.
-
-
-
-To deploy an application with a MongoDB database to Heroku, you'll need to set up a MongoDB Atlas account and connect a database from there to your application. Be sure to use the following guides for support:
-
-  * [Set Up MongoDB Atlas](../04-Important/MongoAtlas-Setup.md)
-
-  * [Deploy with Heroku and MongoDB Atlas](../04-Important/MongoAtlas-Deploy.md)
-
+ 
   ## Screenshots
 ![Dashboard](/images/dashboard.png)
 ![addExercise](/images/addExercise.png)
 ![lastworkout](/images/lastworkout.png)
 
 ## LINKS
-Deployed site: 
-Github: https://github.com/Valkimani/Tap_Out_Exercise_Tracker
-
-
-
-
+![Github]: https://github.com/Valkimani/Tap_Out_Exercise_Tracker
+![Deployed site]: https://tap-out.herokuapp.com/?id=600770387e7dc80017c4d722
 
 
 ## License
